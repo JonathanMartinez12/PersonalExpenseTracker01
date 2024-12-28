@@ -1,0 +1,3 @@
+Expense--->amount_of_money=22.0, category_of_expense=food, date=2024-12-12}
+Expense--->amount_of_money=434.0, category_of_expense=golf, date=2024-12-12}
+Expense--->amount_of_money=54.0, category_of_expense=gym, date=2024-12-25}
