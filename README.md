@@ -37,7 +37,7 @@ Steps to Run
 
 Clone the repository:
 
-git clone https://github.com/yourusername/personal-expense-tracker.git
+git clone https://github.com/JonathanMartinez12/personal-expense-tracker.git
 
 Open the project in your IDE.
 
