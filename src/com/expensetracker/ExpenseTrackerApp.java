@@ -1,13 +1,15 @@
 package com.expensetracker;
 import java.util.Scanner;
 
-public class ExpenseTrackerApp {
+
+public class ExpenseTrackerApp{
     public static void main(String[] args) {
         ExpenseManager expenseManager = new ExpenseManager();
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("-----Welcome to the Personal Expense Tracker----- ");
         while (true) {
             System.out.println("Enter an expense or press q to quit:");
+            System.out.println();
             System.out.println("Enter amount of money:");
             String amountInput = scanner.nextLine();
             double amountOfMoney;
